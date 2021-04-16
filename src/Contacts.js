@@ -22,14 +22,14 @@ function Contacts() {
             </div>
 
             <div className="contacts__list">
-                <Contact image="https://wallpapercave.com/wp/AKsyaeQ.jpg" name="Sexy Squidward"/>
-                <Contact image="https://wallpapercave.com/wp/AKsyaeQ.jpg" name="Sexy Squidward"/>
-                <Contact image="https://wallpapercave.com/wp/AKsyaeQ.jpg" name="Sexy Squidward"/>
-                <Contact image="https://wallpapercave.com/wp/AKsyaeQ.jpg" name="Sexy Squidward"/>
-                <Contact image="https://wallpapercave.com/wp/AKsyaeQ.jpg" name="Sexy Squidward"/>
-                <Contact image="https://wallpapercave.com/wp/AKsyaeQ.jpg" name="Sexy Squidward"/>
-                <Contact image="https://wallpapercave.com/wp/AKsyaeQ.jpg" name="Sexy Squidward"/>
-                <Contact image="https://wallpapercave.com/wp/AKsyaeQ.jpg" name="Sexy Squidward"/>
+                <Contact image="https://wallpapercave.com/wp/AKsyaeQ.jpg" name="Temporary Name"/>
+                <Contact image="https://wallpapercave.com/wp/AKsyaeQ.jpg" name="Temporary Name"/>
+                <Contact image="https://wallpapercave.com/wp/AKsyaeQ.jpg" name="Temporary Name"/>
+                <Contact image="https://wallpapercave.com/wp/AKsyaeQ.jpg" name="Temporary Name"/>
+                <Contact image="https://wallpapercave.com/wp/AKsyaeQ.jpg" name="Temporary Name"/>
+                <Contact image="https://wallpapercave.com/wp/AKsyaeQ.jpg" name="Temporary Name"/>
+                <Contact image="https://wallpapercave.com/wp/AKsyaeQ.jpg" name="Temporary Name"/>
+                <Contact image="https://wallpapercave.com/wp/AKsyaeQ.jpg" name="Squidward"/>
             </div>
             
         </div>
